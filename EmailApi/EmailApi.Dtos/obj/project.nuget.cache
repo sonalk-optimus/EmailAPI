@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/bKcryFQ2o1IItl+trOFJnHMY5tqnAZOj767NyPnwMj7QGdpt7OPEtaPic/4AxUw41Dbbi+oukn7Ur1A8iJBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sonal\\source\\repos\\EmailApi\\EmailApi.Dtos\\EmailApi.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sonal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
