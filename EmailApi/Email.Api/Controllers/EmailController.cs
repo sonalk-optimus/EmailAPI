@@ -23,11 +23,9 @@ namespace Email.Api.Controllers
                 try
                 {
                     _mailService.SendEmail(request);
-                    
                 }
                 catch (Exception ex)
                 {
-
                     throw ex;
                 }
             }
